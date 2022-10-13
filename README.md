@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scholegi
+- 👋 Hi, I’m @scholegg
 - 👀 I’m interested in JavaScript programming language.
 - 🌱 I’m currently learning ReactJS and NodeJS.
 - 💞️ I’m looking to collaborate on ...
